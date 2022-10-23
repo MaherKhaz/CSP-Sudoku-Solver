@@ -1,4 +1,4 @@
-# Solver for Sudoku as a Constraint Satisfaction Problem 
+# Solver for Sudoku as a Constraint Satisfaction Problem hi
 
 This repository provides python scripts that allows to solve the Sudoku Game, show the solution with a Graphical User Interface and models the Sudoku Game as a CSP.
 
